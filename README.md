@@ -1,7 +1,9 @@
 
 # About me
 
-I'm a **Microverse** Full-Stack software development student.  Looking for new coding adventures, mostly if they are related to **Education** and **Marketing** tech.  But, also open to hear about the promising future of other verticals too!
+I'm a **Microverse** Full-Stack software development student.  Looking for new coding adventures! 
+
+Mostly interested in **Education** and **Marketing** tech initiatives, as in my belief these verticals are shaping the social values of the future.  But, also open to hear about other promising future verticals too!
 
 
 ## Connect with me
