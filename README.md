@@ -1,7 +1,7 @@
 
 # About me
 
-I'm a tech enthusiast with 10 years of experience in the startup ecosystem from Latam, San Francisco to all the way to Singapore. Currently a **Microverse** Full-Stack software developer student. 
+I'm a tech enthusiast with 10 years of experience in the startup ecosystem. Engaging with projects from Latam, San Francisco to all the way to Singapore. Currently a **Microverse** Full-Stack software developer student. 
 
 Mostly interested in **Education** and **Marketing** tech initiatives, as in my belief these verticals would be shaping the social values of the future. Feel free to reach out to my email or linkedIn account to connect together! Happy to hear about your thoughts on other promising future verticals and to meet new people!
 
