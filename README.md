@@ -8,7 +8,7 @@ Mostly interested in **Education** and **Marketing** tech initiatives, as in my 
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-juliao-31770011/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-juliao/)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gjuliao32)
 
