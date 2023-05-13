@@ -8,7 +8,10 @@ Mostly interested in **Education** and **Marketing** tech initiatives, as in my 
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-juliao/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gjuliao32) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)(https://twitter.com/giovannijuliao)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-juliao/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gjuliao32)
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)]([https://medium.com/@gjuliao32](https://twitter.com/giovannijuliao)) 
+
 
 ## Tech Stack
 
