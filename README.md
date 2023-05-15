@@ -5,8 +5,6 @@ Team leader and full-stack software developer with a business and project manage
 
 Looking forward to connect to discuss how we can help to shape the future of our communities together.
 
-Looking forward to hearing of you!
-
 
 ## Connect with me
 
