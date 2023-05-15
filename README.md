@@ -3,7 +3,7 @@
 
 Team leader and full-stack software developer with a business and project management background.  Through my +10 years of professional experience, I have helped unicorn to young startup companies stand out in local and global competitive markets.
 
-Would be great to connect together and discuss how we can help to shape the future of our communities.
+Looking forward to connect to discuss how we can help to shape the future of our communities together.
 
 Looking forward to hearing of you!
 
