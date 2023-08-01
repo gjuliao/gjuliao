@@ -1,7 +1,7 @@
 
 # About me
 
-Team leader and RoR/React full-stack software developer with a project management background and problem-solving abilities to work in fast-paced environments.  Through my +10 years of professional experience, remotely, I have helped 3 unicorns and +15 young startup companies stand out in globally competitive markets.
+Team leader and RoR/React full-stack software developer with a project management background and problem-solving abilities to work in fast-paced environments.  Through my +10 years of professional experience, I have helped 3 unicorn and +15 young startup companies stand out in globally competitive markets.
 
 Looking forward to:
 1.  Full-stack and front-end positions.
