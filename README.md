@@ -3,8 +3,7 @@
 
 Team leader and RoR/React full-stack software developer with a background & Master Degree in Project Management.  Through my +10 years of professional experience, I have helped unicorns and +15 young startup companies stand out in globally competitive markets.
 
-Looking forward to:
-1.  Connect to discuss how we can help shape our communities' futures together.
+Looking forward to connect to discuss how we can help shape our communities' futures together.
 
 
 ## Connect with me
